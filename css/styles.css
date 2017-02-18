@@ -67,3 +67,20 @@ img{
 #name9, #position9, #alias9, #bio9 {
   text-align: center;
 }
+
+.NameMine{
+  margin-left: 100px;
+  text-align: middle;
+  color: blue;
+}
+
+.Description{
+  margin-left: 100px;
+  text-align: middle;
+  color: red;
+}
+
+.Life{
+  text-align: middle;
+  color: green;
+}
